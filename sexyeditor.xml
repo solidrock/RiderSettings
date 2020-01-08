@@ -1,0 +1,128 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="E:\JetBrainsBackGround\akela_by_sullivan-d4ijt4f.png" />
+              <option value="E:\JetBrainsBackGround\background.png" />
+              <option value="E:\JetBrainsBackGround\blackbird____or_whatever_by_geotalon-dce5an9.png" />
+              <option value="E:\JetBrainsBackGround\cardinal_small_by_karijinni-dcg1x4n.png" />
+              <option value="E:\JetBrainsBackGround\dog_commission_1_by_undeterminedbreed.png" />
+              <option value="E:\JetBrainsBackGround\girl_android_sh.png" />
+              <option value="E:\JetBrainsBackGround\grumpy_by_coyotemange-d5vbxaf.png" />
+              <option value="E:\JetBrainsBackGround\kbuntu120100006.png" />
+              <option value="E:\JetBrainsBackGround\lightwise151100052.png" />
+              <option value="E:\JetBrainsBackGround\mty.png" />
+              <option value="E:\JetBrainsBackGround\nayolyne_by_novawuff-d39sr5v.png" />
+              <option value="E:\JetBrainsBackGround\raven_and_bear_by_jessada_art-d57u8w4.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-224617.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-224712.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-224747.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-224822.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-224926.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-225052.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-22508.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-225151.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-22547.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-225615.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-225848.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-225937.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-23031.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-2310.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231027.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231152.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231239.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231355.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231420.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-23144.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231452.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231536.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231618.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231656.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231727.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-231910.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-232012.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-232035.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-232146.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-232312.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-232342.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-232531.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-23267.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-232855.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-233138.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-233247.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-233321.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-2356.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-2360.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-23627.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180918-23757.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-225432.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-225717.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-231047.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-231148.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-23167.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-231757.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-232037.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-232135.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-232610.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-23270.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-233123.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-233411.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-23347.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-233939.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-23629.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180925-23957.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180926-121913.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180926-122253.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180926-122756.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180926-122928.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-222224.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-222511.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-222910.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-22307.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-223110.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-22394.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-224020.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-224538.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-224622.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-225213.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-225630.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-23131.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180927-231829.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180928-111028.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180928-111126.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180928-11541.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180928-11627.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180928-1187.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180928-11930.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-222748.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-222838.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-222948.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-223541.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-22357.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-22363.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-22370.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-223838.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-22412.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-224127.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-224420.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-224455.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-224533.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-224553.png" />
+              <option value="E:\JetBrainsBackGround\稿定设计导出-20180929-224621.png" />
+            </array>
+          </option>
+          <option name="opacity" value="0.19" />
+          <option name="position" value="8" />
+          <option name="random" value="true" />
+          <option name="shrink" value="true" />
+          <option name="shrinkToFit" value="true" />
+          <option name="slideshow" value="true" />
+          <option name="slideshowPause" value="600000" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
