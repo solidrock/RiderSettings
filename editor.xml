@@ -8,10 +8,10 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Cascadia Code" />
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Cr.DejaVuSansMono.YaHei" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Cr.DejaVuSansMono.YaHei" />
+    <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
   </component>
   <component name="EditorSettings">
     <option name="IS_VIRTUAL_SPACE" value="true" />
