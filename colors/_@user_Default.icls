@@ -1,20 +1,26 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-02-25T15:52:51</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2020-04-10T08:27:09</property>
+    <property name="modified">2020-06-19T14:57:34</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="777777" />
   </colors>
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">
       <value>
         <option name="BACKGROUND" value="ececec" />
@@ -25983,6 +25989,12 @@
         <option name="BACKGROUND" value="ccffd7" />
         <option name="EFFECT_COLOR" value="0" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
