@@ -6,6 +6,12 @@
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Sarasa Mono SC Semibold" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Fira Code Medium" />
+  </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
