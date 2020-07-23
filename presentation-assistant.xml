@@ -1,0 +1,15 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="alternativeKeymap">
+      <KeymapDescription>
+        <option name="displayText" value="for Mac" />
+        <option name="name" value="ReSharper" />
+      </KeymapDescription>
+    </option>
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="Rider" />
+      </KeymapDescription>
+    </option>
+  </component>
+</application>
