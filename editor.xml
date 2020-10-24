@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
     <option name="selectAutopopupSuggestionsByChars" value="true" />
@@ -10,10 +13,10 @@
     <option name="REFORMAT_ON_PASTE" value="4" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Sarasa Mono SC Semibold" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Sarasa Mono SC" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Fira Code Medium" />
+    <option name="SECONDARY_FONT_FAMILY" value="Fira Mono" />
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />

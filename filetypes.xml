@@ -1,7 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <removed_mapping pattern=".prettierrc" type="JSON" />
-    </extensionMap>
-  </component>
-</application>
