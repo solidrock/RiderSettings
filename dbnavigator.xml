@@ -64,8 +64,6 @@
           <object-type name="TABLE" enabled="true" />
           <object-type name="VIEW" enabled="true" />
           <object-type name="MATERIALIZED VIEW" enabled="true" />
-          <object-type name="NESTED TABLE" enabled="false" />
-          <object-type name="COLUMN" enabled="false" />
           <object-type name="INDEX" enabled="true" />
           <object-type name="CONSTRAINT" enabled="true" />
           <object-type name="DATASET TRIGGER" enabled="true" />
@@ -76,8 +74,6 @@
           <object-type name="FUNCTION" enabled="true" />
           <object-type name="PACKAGE" enabled="true" />
           <object-type name="TYPE" enabled="true" />
-          <object-type name="TYPE ATTRIBUTE" enabled="false" />
-          <object-type name="ARGUMENT" enabled="false" />
           <object-type name="DIMENSION" enabled="false" />
           <object-type name="CLUSTER" enabled="false" />
           <object-type name="DBLINK" enabled="true" />
@@ -109,11 +105,11 @@
         <data-length-threshold value="100" />
         <popup-delay value="1000" />
       </text-editor-popup>
-      <values-list-popup>
+      <values-actions-popup>
         <show-popup-button value="true" />
         <element-count-threshold value="1000" />
         <data-length-threshold value="250" />
-      </values-list-popup>
+      </values-actions-popup>
       <general>
         <fetch-block-size value="100" />
         <fetch-timeout value="30" />
@@ -129,6 +125,7 @@
       <qualified-text-editor text-length-threshold="300">
         <content-types>
           <content-type name="Text" enabled="true" />
+          <content-type name="Properties" enabled="true" />
           <content-type name="XML" enabled="true" />
           <content-type name="DTD" enabled="true" />
           <content-type name="HTML" enabled="true" />
@@ -137,10 +134,11 @@
           <content-type name="SQL" enabled="true" />
           <content-type name="PL/SQL" enabled="true" />
           <content-type name="JavaScript" enabled="true" />
+          <content-type name="JSON" enabled="true" />
+          <content-type name="JSON5" enabled="true" />
           <content-type name="YAML" enabled="true" />
           <content-type name="C#" enabled="true" />
           <content-type name="C++" enabled="true" />
-          <content-type name="Bash" enabled="true" />
         </content-types>
       </qualified-text-editor>
       <record-navigation>
