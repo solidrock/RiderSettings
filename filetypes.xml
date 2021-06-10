@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="sql" type="DBN-SQL" />
-      <mapping ext="sql" type="SQL" />
-      <mapping ext="ts" type="TypeScript" />
-      <removed_mapping ext="ts" type="TypoScript File" />
+      <mapping ext="sql" type="DBN-SQL" />
+      <removed_mapping ext="sql" type="SQL" />
+      <removed_mapping ext="ts" type="TypeScript" />
+      <mapping ext="ts" type="TypoScript File" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tps" approved="true" type="XML" />

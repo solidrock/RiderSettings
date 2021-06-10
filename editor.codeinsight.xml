@@ -1,4 +1,10 @@
 <application>
+  <component name="AspNetCodeFoldingSettings">
+    <option name="collapseWebContainers" value="true" />
+  </component>
+  <component name="RazorCodeFoldingSettings">
+    <option name="collapseCodeBlocks" value="true" />
+  </component>
   <component name="RiderCodeCompletionExtraSettings">
     <option name="allowToCompleteWithWhitespace" value="false" />
   </component>

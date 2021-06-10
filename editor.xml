@@ -5,6 +5,8 @@
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
     <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
@@ -15,17 +17,36 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Sarasa Mono SC" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Fira Mono" />
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
-    <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="JSEditorOptions">
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COMMA_ON_ENTER" value="false" />
+    <option name="COMMA_ON_MATCHING_BRACES" value="false" />
+    <option name="COMMA_ON_PASTE" value="false" />
+    <option name="AUTO_QUOTE_PROP_NAME" value="false" />
+    <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
   </component>
 </application>
